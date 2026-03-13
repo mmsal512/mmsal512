@@ -49,6 +49,11 @@ I'm a **self-taught DevOps Engineer** from Yemen with a background in PHP/Larave
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 🔒 Security & Networking
 ![CrowdSec](https://img.shields.io/badge/CrowdSec-6B38FB?style=for-the-badge&logoColor=white)
@@ -80,6 +85,7 @@ I'm a **self-taught DevOps Engineer** from Yemen with a background in PHP/Larave
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| 🏗️ [**Infra Full Stack**](https://github.com/mmsal512/infra-full-stack) | **Production-grade DevOps infrastructure** — Terraform → Ansible → Docker → K3s → CI/CD → Monitoring | `Terraform` `K3s` `GitHub Actions` `Prometheus` `Grafana` |
 | 🔐 [**Ultimate Secure Setup**](https://github.com/mmsal512/setup_servers) | Ansible Playbook for Full Server Hardening | `Ansible` `CrowdSec` `UFW` |
 | 🔄 [**Hybrid CI/CD Pipeline**](https://github.com/mmsal512/k3s-jenkins-hybrid-cicd) | Jenkins inside K3s with Docker builds via SSH | `Jenkins` `K3s` `Docker` |
 | 🏗️ [**Server Boilerplate**](https://github.com/mmsal512/server-boilerplate) | Full production stack in one command | `Docker Compose` `Traefik` |
@@ -111,12 +117,12 @@ DevOps Roadmap 2025-2026
 ├── ✅ Docker & Docker Compose     ████████████████████ 100%
 ├── ✅ Server Security & Hardening ████████████████████ 100%
 ├── ✅ Ansible (Config Management) ██████████████████░░  90%
-├── ✅ CI/CD (Jenkins)             ████████████████░░░░  80%
+├── ✅ CI/CD (Jenkins + Actions)   ██████████████████░░  90%
 ├── ✅ HashiCorp (Nomad/Consul)    ██████████████░░░░░░  70%
-├── 🔄 Kubernetes (Deep Dive)      ████████░░░░░░░░░░░░  40%
-├── 🔄 Terraform (IaC)             ██████░░░░░░░░░░░░░░  30%
+├── 🔄 Kubernetes (K3s + HPA)      ████████████░░░░░░░░  60%
+├── 🔄 Terraform (IaC)             ██████████░░░░░░░░░░  50%
+├── 🔄 Prometheus & Grafana        ██████████░░░░░░░░░░  50%
 ├── 📋 AWS Cloud                   ████░░░░░░░░░░░░░░░░  20%
-├── 📋 Prometheus & Grafana        ████░░░░░░░░░░░░░░░░  20%
 └── 📋 GitOps (ArgoCD)             ██░░░░░░░░░░░░░░░░░░  10%
 ```
 
