@@ -18,7 +18,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Mohammed Mahfod Saleh Alefari
+name: Mohammed Alefari
 location: Yemen 🇾🇪
 role: DevOps Engineer
 background: PHP Laravel Developer → DevOps Engineer
