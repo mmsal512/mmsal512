@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alefari-283211306/)
 [![Website](https://img.shields.io/badge/Website-mmsal.cloud-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mmsal.cloud)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmsal20902012@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@mmsal.cloud)
 [![GitHub](https://img.shields.io/badge/GitHub-mmsal512-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmsal512)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Building+Secure+%26+Automated+Infrastructure;CI%2FCD+Pipeline+Architect;Linux+%26+Docker+Specialist;Always+Learning+%7C+Self-Taught+Engineer" alt="Typing SVG" />
@@ -147,6 +147,6 @@ DevOps Roadmap 2025-2026
 **Open to DevOps opportunities — Remote or On-site**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alefari-283211306/)
-[![Email](https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmsal20902012@gmail.com)
+[![Email](https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@mmsal.cloud)
 
 <img src="https://komarev.com/ghpvc/?username=mmsal512&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS">
